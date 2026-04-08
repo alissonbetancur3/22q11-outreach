@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>22q11.2 Deletion Syndrome Outreach</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <style>
+    body {
+      font-family: 'Lato', sans-serif;
+      margin: 0;
+      background-color: #f4f6f8;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #2a6f97;
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.2em;
+    }
+    nav {
+      background-color: #468faf;
+      text-align: center;
+      padding: 15px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 700;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      background-color: white;
+      margin: 30px auto;
+      padding: 25px;
+      border-radius: 12px;
+      max-width: 900px;
+    }
+    section h2 {
+      color: #2a6f97;
+    }
+    section img {
+      display: block;
+      margin: 15px auto;
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background-color: #468faf;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 30px;
+    }
+    a {
+      color: #2a6f97;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>22q11.2 Deletion Syndrome Outreach</h1>
+  <p>Supporting patients, families, and caregivers with reliable information.</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#symptoms">Symptoms</a>
+  <a href="#diagnosis">Diagnosis</a>
+  <a href="#treatment">Treatment & Support</a>
+  <a href="#resources">Resources</a>
+</nav>
+
+<section id="about">
+  <h2>About 22q11.2 Deletion Syndrome</h2>
+  <p>
+    22q11.2 Deletion Syndrome is a genetic condition caused by a small missing piece of chromosome 22.
+    Symptoms vary, and it can affect multiple systems in the body. It is sometimes called DiGeorge Syndrome.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Chromosome_22.svg" alt="Chromosome 22 illustration">
+</section>
+
+<section id="symptoms">
+  <h2>Symptoms</h2>
+  <ul>
+    <li><i class="fas fa-heart"></i> Heart defects</li>
+    <li><i class="fas fa-brain"></i> Learning or developmental challenges</li>
+    <li><i class="fas fa-child"></i> Speech delays</li>
+    <li><i class="fas fa-baby"></i> Feeding or growth issues</li>
+    <li><i class="fas fa-users"></i> Behavioral differences</li>
+  </ul>
+  <img src="https://images.pexels.com/photos/4167549/pexels-photo-4167549.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Children and families together">
+</section>
+
+<section id="diagnosis">
+  <h2>Diagnosis</h2>
+  <p>
+    Diagnosis is usually made through genetic testing, often a blood test. It can be identified before birth
+    or during early childhood depending on symptoms.
+  </p>
+  <img src="https://images.unsplash.com/photo-1587502536263-3d44da8f67ad?auto=format&fit=crop&w=900" alt="Doctor explaining genetic testing">
+</section>
+
+<section id="treatment">
+  <h2>Treatment & Support</h2>
+  <p>There is no single cure, but treatments help manage symptoms:</p>
+  <ul>
+    <li>Heart surgeries if needed</li>
+    <li>Speech and developmental therapies</li>
+    <li>Educational and learning support</li>
+    <li>Regular medical checkups</li>
+    <li>Family and community support programs</li>
+  </ul>
+  <img src="https://images.pexels.com/photos/4145199/pexels-photo-4145199.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Therapy or support session">
+</section>
+
+<section id="resources">
+  <h2>Resources</h2>
+  <ul>
+    <li><a href="https://www.22q.org/" target="_blank">The 22q11.2 Foundation</a></li>
+    <li><a href="https://www.cdc.gov/genomics/disease/22q11.2.html" target="_blank">CDC Overview of 22q11.2</a></li>
+    <li>Local pediatric genetic specialists and support groups</li>
+  </ul>
+  <img src="https://images.pexels.com/photos/4074453/pexels-photo-4074453.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Family support">
+</section>
+
+<footer>
+  <p>Created by Alisson Betancur for 22q11.2 patient outreach</p>
+</footer>
+
+</body>
+</html>
