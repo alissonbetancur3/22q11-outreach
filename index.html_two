@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>22q11.2 Deletion Syndrome Outreach</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background-color: #f4f6f8;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #2a6f97;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #468faf;
+      text-align: center;
+      padding: 15px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      background-color: white;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 900px;
+    }
+    h2 {
+      color: #2a6f97;
+    }
+    footer {
+      background-color: #468faf;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+    img {
+      display: block;
+      margin: 10px auto;
+      max-width: 100%;
+      height: auto;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>22q11.2 Deletion Syndrome Outreach</h1>
+  <p>This website was created to support patients, families, and caregivers by providing clear and accessible information.</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#symptoms">Symptoms</a>
+  <a href="#diagnosis">Diagnosis</a>
+  <a href="#treatment">Treatment & Support</a>
+  <a href="#resources">Resources</a>
+</nav>
+
+<section id="about">
+  <h2>About 22q11.2 Deletion Syndrome</h2>
+  <p>
+    22q11.2 Deletion Syndrome is a genetic condition caused by a small missing piece of chromosome 22. 
+    It affects each person differently and can impact multiple systems in the body. It is sometimes 
+    referred to as DiGeorge Syndrome.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Chromosome_22.svg" alt="Chromosome 22 illustration">
+</section>
+
+<section id="symptoms">
+  <h2>Symptoms</h2>
+  <ul>
+    <li>Heart defects</li>
+    <li>Speech and learning difficulties</li>
+    <li>Immune system differences</li>
+    <li>Feeding or growth issues</li>
+    <li>Behavioral or developmental delays</li>
+  </ul>
+</section>
+
+<section id="diagnosis">
+  <h2>Diagnosis</h2>
+  <p>
+    Diagnosis is typically made through genetic testing, usually a blood test. 
+    It can be identified before birth or during early childhood depending on symptoms.
+  </p>
+</section>
+
+<section id="treatment">
+  <h2>Treatment & Support</h2>
+  <p>
+    There is no single cure, but treatments help manage symptoms. These can include:
+  </p>
+  <ul>
+    <li>Heart surgeries if needed</li>
+    <li>Speech and developmental therapies</li>
+    <li>Educational and learning support</li>
+    <li>Regular medical checkups and follow-ups</li>
+    <li>Family and community support programs</li>
+  </ul>
+</section>
+
+<section id="resources">
+  <h2>Resources</h2>
+  <ul>
+    <li><a href="https://www.22q.org/" target="_blank">The 22q11.2 Foundation</a></li>
+    <li><a href="https://www.cdc.gov/genomics/disease/22q11.2.html" target="_blank">CDC Overview of 22q11.2</a></li>
+    <li>Local pediatric genetic specialists and support groups</li>
+  </ul>
+</section>
+
+<footer>
+  <p>Created by Alisson Betancur for 22q11.2 patient outreach</p>
+</footer>
+
+</body>
+</html>
